@@ -87,7 +87,7 @@ window.title(title)
 font_element = tkinter.font.Font(window, size=80, family=font_family)
 font_element_small = tkinter.font.Font(window, size=16, family=font_family)
 font_button = tkinter.font.Font(window, size=18, family=font_family)
-font_answer = tkinter.font.Font(window, size=20, family=font_family)
+
 font_info = tkinter.font.Font(window, size=24, family=font_family)
 font_correct = tkinter.font.Font(window, size=16, family=font_family)
 
